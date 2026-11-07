@@ -1,11 +1,11 @@
 {
-    "name": "mcr_scanner",
-    "short_name": "mcr_scanner",
+    "name": "Event Scanner",
+    "short_name": "Scanner",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#DB1332",
+    "theme_color": "#DB1332",
+    "description": "Event night ticket scanner.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
